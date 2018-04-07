@@ -1,7 +1,8 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma
-  if
-  elsif condition
+  
+  if 
+  elsif 
   else
   end
  end

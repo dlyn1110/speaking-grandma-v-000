@@ -3,8 +3,8 @@ def speak_to_grandma
   if
   elsif condition
   else
-end    
-end
+  end
+ end
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
